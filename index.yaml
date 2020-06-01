@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kubecf:
+  - apiVersion: v1
+    appVersion: v2.2.1
+    created: "2020-06-01T15:24:20.918363098+10:00"
+    description: A Helm chart for KubeCF
+    digest: e5459f52ec018f718430466f11fd4389e77525af34383ec386823248cdfb0c11
+    name: kubecf
+    urls:
+    - https://github.com/karthikshekar26/kubecf_repo/kubecf-v2.2.1.tgz
+    version: v2.2.1
+generated: "2020-06-01T15:24:20.911215764+10:00"
